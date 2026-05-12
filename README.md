@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ![Cheat Notes Banner]()
 
